@@ -27,7 +27,6 @@ Math & Bit Manipulation
 🛠️ Features
 
 ✅ Clean, well-commented C++ solutions
-📈 Time and space complexity for each problem
 🗂️ Organized folder structure (by topic)
 💡 Step-by-step explanation (where needed)
 
